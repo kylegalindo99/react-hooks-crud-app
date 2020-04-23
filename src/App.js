@@ -4,10 +4,10 @@ import AddUserForm from './forms/AddUserForm'
 
 const App = () => {
   const userData = [
-    { id: 1, name: "Tania", userName: "@taniatee22" },
-    { id: 2, name: "Craig", userName: "@craigjennings" },
-    { id: 3, name: "Jenny", userName: "@jenniferM" },
-    { id: 4, name: "Chad", userName: "@gothchad404" }
+    { id: 1, name: "Tania", username: "@taniatee22" },
+    { id: 2, name: "Craig", username: "@craigjennings" },
+    { id: 3, name: "Jenny", username: "@jenniferM" },
+    { id: 4, name: "Chad", username: "@gothchad404" }
   ];
 
   // useState is a react hook!
